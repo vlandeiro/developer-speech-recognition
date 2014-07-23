@@ -11,10 +11,12 @@ Here is a quick and unorganized list of the goals we want to achieve while devel
 - works on multiple softwares (Eclipse, SublimeText, Atom, Visual Studio, etc) `++`
 - offer 'vocal macros': e.g. the user says "if else block" and it writes: `+`
 
-  if cond:
-    do1
-  else:
-    do2
-    
+```python
+if cond:
+  do1
+else:
+  do2
+```
+
 - recognize already existing variables `+++`
 - adapt speech recognition to each user `+++`
