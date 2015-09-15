@@ -2,6 +2,8 @@
 
 Speech recognition aiming to ease the work of software developers
 
+See todo: https://trello.com/b/9E1ya2jD/developer-speech-recognition
+
 ## Goals:
 
 Here is a quick and unorganized list of the goals we want to achieve while developing this application (`+` signs define the difficulty of the task: the more `+` signs there are, the harder the task):
